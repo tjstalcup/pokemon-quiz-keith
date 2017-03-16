@@ -1,0 +1,7 @@
+li.selected {
+	background-color: yellow;
+}
+
+.hidden {
+	display: none;
+}
